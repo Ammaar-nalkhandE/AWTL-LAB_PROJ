@@ -1,5 +1,31 @@
+.weather-container {
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.error-message {
+    color: #ff0000;
+}
+
+.weather-info {
+    margin-top: 20px;
+}
+p{
+    width: fit-content;
+    margin: auto;
+    font-family: "Arial Black";
+}
+h2{
+    width: fit-content;
+    margin: auto;
+    font-family: Algerian;
+    font-size: xxx-large;
+}
 h1{
     width: fit-content;
     margin: auto;
-    color: red;
+    font-family: "Luxfont";
 }
